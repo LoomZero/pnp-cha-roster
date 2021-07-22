@@ -280,7 +280,7 @@ Quelle: [https://www.dndbeyond.com/equipment/javelin](https://www.dndbeyond.com/
 - Eine Runde Vorbereiten
 - Kann keinen kritischen Treffer landen
 - Schaden + 1d6
-- (Kann überarbeitet werden)
+- Ein garantierter Treffer
 
 ![](https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/4/44/Steady_Aim.png/revision/latest/scale-to-width-down/200?cb=20191002220811)
 ![](https://static.wikia.nocookie.net/hunthorrorsofthegildedage_gamepedia/images/7/74/Iron_Sharpshooter.png/revision/latest/scale-to-width-down/200?cb=20191002220807)
@@ -515,12 +515,12 @@ Eine Spezialmischung von Huntern erfunden, um gegen Besonders mächtige Gegner z
 
 > Kann zwei in einen Slot setzen.
 
-> Das stellen der Falle kostet 1 Aktion.
+> Das Stellen der Falle kostet 1 Hauptaktion.
 
 > Ein Lebewesen das in die Falle tritt nimmt 1d4 Schaden und kann sich nur noch halb so schnell bewegen.
-> Das Lebewesen kann einen Stärke Check machen um sich von der Falle zu lösen.
+> Das Lebewesen kann einen Stärke Check [16] machen um sich von der Falle zu lösen.
 
-> Die Falle kann mit einem Stärke Check wieder einsatzbereit gemacht werden. Misslingt dieser nimmt der Anwender 1d4 Schaden. 
+> Die Falle kann mit einem Stärke Check [16] wieder einsatzbereit gemacht werden. Misslingt dieser nimmt der Anwender 1d4 Schaden. 
 
 ![](https://i.pinimg.com/originals/1a/b7/3a/1ab73a556f37ce355d89d07f4d2ac1fb.jpg)
 
@@ -587,8 +587,4 @@ Enthällt eine Anzahl an Spezialmunition für die Mosin.
 
 # 6. Fragen
 
-## 6.1. Falle ok?
-
 ## 6.2. Rift ok?
-
-## 6.3. Ruhiges Zielen, ist ein sicherer Treffer?
